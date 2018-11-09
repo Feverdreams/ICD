@@ -1,0 +1,12 @@
+For 10->9 GEMs:
+1. There are 63111 one to one mappings.
+2. There are 17751 one to many mappings. In general more than half the concepts on the 1 side equivalent to the concepts on the many side. Since the number of mappings belong in a combination is 9033.
+3. 731 terms have no mappings
+
+For 9->10 GEMs:
+1. There are 10765 one to one mappings.
+2. There are 13673 one to many mappings. In general, only a minor of the concepts on the 1 side equivalent to the concepts on the many side. Since the number of mappings belong in a combination is 2338.
+3. 422 terms have no mappings
+
+Overall:
+4. 10->9 mapping direction is more feasible. Since there are many more concepts on the 1 side equivalent to the concepts on the many side in the direction of 10->9.
